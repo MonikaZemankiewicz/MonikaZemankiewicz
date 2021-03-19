@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonikaZemankiewicz
 - 👀 I’m interested in frontend web technologies. 
-- 🌱 I’m currently learning UI/UX/SEO. 
+- 🌱 I’m currently learning ReactJS/UI/UX/SEO. 
 - 📫 How to reach me:
 zemankiewicz98@gmail.com
 
