@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**MonikaZemankiewicz/MonikaZemankiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Monika. 
 
-Here are some ideas to get you started:
+👩‍💻 I am a Software Developer and a Computer Science graduate at Wrocław University of Science and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I like to learn continuously and keep up-to-date with the latest trends and best practices in the
+industry. 
+
+🤝 I greatly enjoy working as part of a team and mastering both technical and
+interpersonal skills.
+
+
+# 📈 Stats
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=MonikaZemankiewicz&count_private=true&show_icons=true&theme=react&hide_border=true"
+/>
+<img
+  src="https://streak-stats.demolab.com?user=MonikaZemankiewicz&show_icons=true&theme=react&hide_border=true"
+/>
+<img 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MonikaZemankiewicz&theme=react"
+/>
+<br/>
